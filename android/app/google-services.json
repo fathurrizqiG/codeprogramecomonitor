@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "756703024037",
+    "firebase_url": "https://ecomoni-dc5fd-default-rtdb.firebaseio.com",
+    "project_id": "ecomoni-dc5fd",
+    "storage_bucket": "ecomoni-dc5fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756703024037:android:eff05c828502af5e674e4c",
+        "android_client_info": {
+          "package_name": "com.example.ecomoni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRLGhMZcthLyDFqJb1xkFoFQBnFQ0JPzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
