@@ -2,7 +2,7 @@
 Kode program dari alat **EcoMonitor** untuk monitoring kondisi lingkungan.
 
 ## 📌 Deskripsi
-EcoMonitor adalah sistem monitoring berbasis IoT yang menggunakan ESP32 dan sensor (DHT22, LDR, sensor hujan, dsb).  
+EcoMonitor adalah sistem monitoring berbasis IoT yang menggunakan ESP32 dan sensor (DHT22, LDR, sensor hujan,)  
 Data dikirim ke Firebase lalu ditampilkan dalam aplikasi Flutter dan website monitoring.
 
 ## 🚀 Cara Menjalankan Project Flutter
